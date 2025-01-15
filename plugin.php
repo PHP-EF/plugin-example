@@ -15,7 +15,7 @@ $GLOBALS['plugins']['Example'] = [ // Plugin Name
 	'api' => '/api/plugin/example/settings', // api route for settings page, or null if no settings page
 ];
 
-class examplePlugin extends ib
+class examplePlugin extends phpef
 {
 
 	public function __construct() {
