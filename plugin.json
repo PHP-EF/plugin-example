@@ -1,13 +1,13 @@
 [
     {
       "name": "Example",
-      "repo": "https://github.com/php-ef",
+      "repo": "https://github.com/php-ef/plugin-example",
       "author": "TehMuffinMoo",
       "category": "Testing",
       "description": "This PHP-EF plugin is an example one.",
-      "icon": "https://raw.githubusercontent.com/php-ef/php-ef-plugin-example/main/logo.png",
-      "contact": "https://github.com/php-ef/php-ef/",
-      "link": "https://github.com/php-ef/php-ef/",
+      "icon": "https://raw.githubusercontent.com/php-ef/plugin-example/main/logo.png",
+      "contact": "https://github.com/php-ef/plugin-example/issues",
+      "link": "https://github.com/php-ef/plugin-example",
       "version": "1.0.0",
       "minimum_php-ef_version": "0.6.0",
       "release_date": "2024-12-20",
